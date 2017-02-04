@@ -5,8 +5,8 @@
 ## Quiz:
 1. What is the difference between class and instance objects in Python?
 2. Describe the main features of encapsulation in Python?
-3. What is the `__init__` and `__new__` methods used for in Python?
-4. What does `self` mean in a Python class?
+3. What is the `__init__` and `__new__` methods used in Python for?
+4. What does `self` mean in Python class?
 5. What is the difference between class and instance variables in Python?
 6. What are class and instance methods in Python?
 7. Describe the features of multiple inheritance in Python?
