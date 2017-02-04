@@ -13,11 +13,10 @@ Quiz:
 8.	What is the difference between @staticmethod and @classmethod in Python?
 9.	How to implement abstract class in Python?
 10.	How does Python's super() work with multiple inheritance?
-11.	How to implement method overloading in Python
+11.	How to implement method overloading in Python?
 12.	How to implement operators overloading in Python?
 13.	Describe the principles of the following design patterns: iterator, abstract factory, singleton, decorator.
 
 Exercises:
-
 1.	Implement the following design patterns: iterator, abstract factory, singleton, decorator.
 2.	Write a program(s) to test your patterns.
