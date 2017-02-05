@@ -1,5 +1,5 @@
 # **Lab Work No2.**
-### **Topic: 1.	Introduction to Object-Oriented Programming in Python**
+### **Topic: Introduction to Python GUI Programming with Qt**
 
 
 ## Quiz
