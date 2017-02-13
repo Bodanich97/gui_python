@@ -3,9 +3,17 @@
 
 
 ## Quiz
-Quiz 2 underway
+1. Describe the purpose of Qt’s base tools.
+2. Describe the Qt technologies for creating user interfaces.
+3. Enumerate the main features of Widget-based User Interfaces.
+4. What is Qt Platform Abstraction?
+5. Describe the purpose of the following Qt modules briefly and enumerate its main classes: Qt Core, Qt GUI and Qt Widgets.
+6. Which is the base class of all Qt objects?
+7. What is parent/child relationship between Qt objects?
+8. Describe the main features of PyQt?
+9. Which tool is used for generating Python bindings for Qt?
 
-**Deadline is 17.02.2017**
+**Deadline is 24.02.2017**
 
 ## Exercises
 Exercises 2 underway
