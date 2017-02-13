@@ -23,3 +23,4 @@ Exercises 2 underway
 ## References
 1. The Python Tutorial - https://docs.python.org/3.5/tutorial/
 2. PyQt5 Reference Guide - http://pyqt.sourceforge.net/Docs/PyQt5/
+3. Qt Documentation - http://doc.qt.io/
