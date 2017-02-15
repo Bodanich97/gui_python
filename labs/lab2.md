@@ -29,3 +29,4 @@ Implement the classes using design patterns.
 2. PyQt5 Reference Guide - http://pyqt.sourceforge.net/Docs/PyQt5/
 3. Qt Documentation - http://doc.qt.io/
 4. Pyramid (solitaire) - https://en.wikipedia.org/wiki/Pyramid_(solitaire)
+5. Python Design Patterns: For Sleek And Fashionable Code - https://www.toptal.com/python/python-design-patterns
