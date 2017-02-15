@@ -18,7 +18,9 @@
 ## Exercises
 The following labs are related to a simple solitare game called Pyramid. <br/>
 1. Learn the rules of Pyramid
-
+2. Create a class called Card to represent a playing card in Pyramid. <br/>
+    Create a class called Deck to represent a deck of cards in Pyramid. <br/>
+    Implement the classes using design patterns.
 
 **Deadline is 24.02.2017**
 
