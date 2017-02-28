@@ -8,7 +8,7 @@
 3. Describe the classification of widgets in Qt?
 4. When are paint events raised?
 5. How does QWidget avoid flickers?
-6. Describe the concept of events in Qt and the differences to signal/slots. 
+6. Describe the concept of events in Qt and the differences to signals/slots. 
 7. Enumerate the advantages of signals/slots.
 8. How to connect signals to slots? 
 9. In what order will the slots be executed if they are connected to one signal?
