@@ -3,9 +3,19 @@
 
 
 ## Quiz
-Quiz 3 underway
+1. What is a Widget in Qt?
+2. Describe briefly the purpose of the default arguments of QWidget constructor.
+3. Describe the classification of widgets in Qt?
+4. When are paint events raised?
+5. How does QWidget avoid flickers?
+6. Describe the concept of events in Qt and the differences to signal/slots. 
+7. Enumerate the advantages of signals/slots.
+8. How to connect signals to slots? 
+9. In what order will the slots be executed if they are connected to one signal?
+10. How to map many signals to one slot?
+11. What is event propagation?
 
-**Deadline is 24.02.2017**
+**Deadline is 10.03.2017**
 
 ## Exercises
 Exercises 3 underway
