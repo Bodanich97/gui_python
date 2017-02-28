@@ -24,3 +24,6 @@ Exercises 3 underway
 
 ## References
 1. QWidget Class - http://doc.qt.io/qt-5/qwidget.html
+2. QWidget Class Reference - http://pyqt.sourceforge.net/Docs/PyQt4/qwidget.html#QWidget
+3. QEvent Class - http://doc.qt.io/qt-5/qevent.html
+4. Signals & Slots - http://doc.qt.io/qt-5/signalsandslots.html
