@@ -20,10 +20,14 @@
 ## Exercises
 1. Implement the following design patterns: prototype, facade, strategy, state.
 2. Create a class called PyramidBoard that contains state (variables) and behavior (methods) that are necessary to play the solitare.<br/>
+<p>
 **Note: Pyramid must support the following complexity settings:**
  * enable/disable timer
  * сards are matched in pairs taking/not taking into account their ranks
+</p>
+<p>
 **Note: Implement the PyramidBoard class using design patterns.**
+</p>
 
 **Deadline is 24.03.2017**
 
