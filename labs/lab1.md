@@ -28,4 +28,4 @@
 ## References
 1. The Python Tutorial - https://docs.python.org/3.5/tutorial/
 2. Head First Design Patterns. A Brain-Friendly Guide / Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra // O'Reilly Media. - 2004. - 694 p.
-2. Design Patterns: Elements of Reusable Object-Oriented Software / Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides // Addison Wesley. - 1994. - 416 p.
+3. Design Patterns: Elements of Reusable Object-Oriented Software / Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides // Addison Wesley. - 1994. - 416 p.
