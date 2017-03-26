@@ -8,3 +8,6 @@ https://www.jetbrains.com/shop/eform/students<br/>
 https://www.qt.io/developers/<br/>
 4. PyQt5<br/>
 https://pypi.python.org/pypi/PyQt5<br/>
+
+## Interesting links
+1. CheckiO - https://py.checkio.org/
