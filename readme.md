@@ -11,3 +11,4 @@ https://pypi.python.org/pypi/PyQt5<br/>
 
 ## Interesting links
 1. CheckiO - https://py.checkio.org/
+2. Machine Learning in Python - http://scikit-learn.org/stable/
